@@ -1,0 +1,16 @@
+{
+  "name": "PokerHelpTables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Rogered1320",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.1.0",
+    "electron-packager": "^15.4.0"
+  }
+}

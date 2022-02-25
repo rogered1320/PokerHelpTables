@@ -1,0 +1,24 @@
+{
+"UTG": 
+    ["RESTO"], 
+"MP": 
+    ["UTG", "RESTO"], 
+"CU": 
+    ["UTG", "MP", "RESTO"], 
+"BTN": 
+    ["CU", "UTG", "MP", "RESTO"], 
+"SB": 
+    ["BTN", "CU", "UTG", "MP", "RESTO"], 
+"BB": 
+    ["SB", "BTN", "CU", "UTG", "MP", "RESTO"], 
+
+}
+
+<button class="second-button" data-value="RESTO" >RESTO</button>
+<button class="second-button" data-value="UTG" >UTG</button>
+<button class="second-button" data-value="MP" >MP</button>
+<button class="second-button" data-value="MP" >MP</button>
+<button class="second-button" data-value="CU" >CU</button>
+<button class="second-button" data-value="BTN" >BTN</button>
+<button class="second-button" data-value="SB" >SB</button>
+<button class="second-button" data-value="BB" >BB</button>
